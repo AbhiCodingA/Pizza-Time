@@ -110,17 +110,17 @@ export const allProductsData = [
     ItemImg: CheesePizza,
     ItemName: 'Cheese Pizza',
     ItemIngredients: 'Pizza dough, pizza sauce, provolone cheese, mozzarella.',
-    ItemPrice: (2).toFixed(2),
+    ItemPrice: (120).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
         id: 'size',
         name: 'size',
         attributeOptions: [
-          { id: 'small', value: 'small', slices: '6' },
-          { id: 'medium', value: 'medium', slices: '8' },
-          { id: 'large', value: 'large', slices: '10' },
-          { id: 'x-large', value: 'x-large', slices: '12' },
+          { id: 'small', value: 'small', slices: '60' },
+          { id: 'medium', value: 'medium', slices: '90' },
+          { id: 'large', value: 'large', slices: '230' },
+          { id: 'x-large', value: 'x-large', slices: '390' },
         ],
       },
     ],
@@ -132,7 +132,7 @@ export const allProductsData = [
     ItemName: 'Veggie Pizza',
     ItemIngredients:
       'Pizza sauce, Onion, Capsicum, Pineapple, Ginger, Hotshot sauce, Coriander, Garlic sauce, Butter sauce, Cheese.',
-    ItemPrice: (9).toFixed(2),
+    ItemPrice: (90).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
@@ -695,17 +695,17 @@ export const allProductsData = [
     ItemName: 'Greek-Style Pizza',
     ItemIngredients:
       'White cheddar, sauce, tomato paste, bread flour, red pepper flakes.',
-    ItemPrice: (8).toFixed(2),
+    ItemPrice: (250).toFixed(2),
     Category: 'Pizza',
     attributes: [
       {
         id: 'size',
         name: 'size',
         attributeOptions: [
-          { id: 'small', value: 'small', slices: '6' },
-          { id: 'medium', value: 'medium', slices: '8' },
-          { id: 'large', value: 'large', slices: '10' },
-          { id: 'x-large', value: 'x-large', slices: '12' },
+          { id: 'small', value: 'small', slices: '60' },
+          { id: 'medium', value: 'medium', slices: '89' },
+          { id: 'large', value: 'large', slices: '260' },
+          { id: 'x-large', value: 'x-large', slices: '372' },
         ],
       },
     ],

@@ -29,12 +29,12 @@ const ContactUsLanding = () => {
       />
       <section className='company-details'>
         <div>
-          <h2>000 (000) 123 4567</h2>
+          <h2>+91 9878654321</h2>
           <p>Contact us if you have any questions</p>
         </div>
         <div>
-          <h2>506 Roy Alley 80202 </h2>
-          <p>Colorado, Denver</p>
+          <h2>Lawgate near KHozzo </h2>
+          <p>Punjab, Phagwara</p>
         </div>
         <div>
           <h2>Open Monday-Friday</h2>

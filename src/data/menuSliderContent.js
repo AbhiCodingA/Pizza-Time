@@ -39,7 +39,7 @@ const menuSliderProducts = [
         name: 'Pepperoni Pizza',
         describtion:
             'Pizza crust yeast, pepperoni, tomato paste, mozzarella cheese, sugar.',
-        price: (5).toFixed(2),
+        price: (190).toFixed(2),
         img375: pizzaOne375,
         img700: pizzaOne700,
         category: 'pizza',
@@ -49,7 +49,7 @@ const menuSliderProducts = [
         name: 'BBQ Chicken Pizza',
         describtion:
             'Rotisserie chicken, pizza dough, bbq sauce, smoked cheddar cheese, mozzarella cheese.',
-        price: (10).toFixed(2),
+        price: (100).toFixed(2),
         img375: pizzaTwo375,
         img700: pizzaTwo700,
         category: 'pizza',
@@ -58,7 +58,7 @@ const menuSliderProducts = [
         id: 'cheese-pizza',
         name: 'Cheese Pizza',
         describtion: 'Pizza dough, pizza sauce, provolone cheese, mozzarella.',
-        price: (5).toFixed(2),
+        price: (59).toFixed(2),
         img375: pizzaThree375,
         img700: pizzaThree700,
         category: 'pizza',
@@ -70,7 +70,7 @@ const menuSliderProducts = [
         name: 'Salmon Poke',
         describtion:
             'Salmon, Avocado, Rice, Cabbage, Carrots, Creen onions, Sesame.',
-        price: (10).toFixed(2),
+        price: (100).toFixed(2),
         category: 'sushi',
     },
 
@@ -80,7 +80,7 @@ const menuSliderProducts = [
         img700: VeggiePoke700,
         name: 'Veggie Poke',
         describtion: 'Rice, Avocado, Cabage, Carrot, Ginger, Green Onion, Sesam.',
-        price: (8).toFixed(2),
+        price: (80).toFixed(2),
         category: 'sushi',
     },
     {
@@ -90,7 +90,7 @@ const menuSliderProducts = [
         name: 'Mini Salmon Set',
         describtion:
             'Double Salmon Roll,Californication, Salmon Nigiri - 2Pcs, Eel Nigiri - 2Pcs,Vulcan Gunkan - 2Pcs',
-        price: (35).toFixed(2),
+        price: (350).toFixed(2),
         category: 'sushi',
     },
     {
@@ -100,7 +100,7 @@ const menuSliderProducts = [
         name: 'Chicken Alfredo',
         describtion:
             'Skinless chicken breast, heavy cream, olive oil, parmigiano reggiano, black pepper.',
-        price: (2).toFixed(2),
+        price: (200).toFixed(2),
         category: 'pasta',
     },
     {
@@ -110,7 +110,7 @@ const menuSliderProducts = [
         name: 'Pasta Alla Gricia',
         describtion:
             'Rigatoni pasta, pancetta, olive oil, pecorino romano, black pepper.',
-        price: (9).toFixed(2),
+        price: (90).toFixed(2),
         category: 'pasta',
     },
     {
@@ -120,7 +120,7 @@ const menuSliderProducts = [
         name: 'Burrata Caprese Gnocchi',
         describtion:
             'Penne pasta, sour cream, rotisserie chicken, cherry tomatoes, curly kale.',
-        price: (5).toFixed(2),
+        price: (89).toFixed(2),
         category: 'pasta',
     },
 ]
